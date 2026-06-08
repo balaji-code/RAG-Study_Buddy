@@ -1,0 +1,5 @@
+FastAPI is a modern Python web framework.
+Endpoints are defined using decorators like app.get and app.post.
+Pydantic models validate request and response data.
+Path parameters are defined using curly braces in the URL.
+Query parameters are optional filters added after the question mark.

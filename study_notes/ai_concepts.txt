@@ -1,0 +1,5 @@
+RAG stands for Retrieval Augmented Generation.
+Embeddings convert text into numerical vectors.
+Vector databases store and search embeddings efficiently.
+LLMs are Large Language Models trained on vast text data.
+Fine tuning adapts a pretrained model to specific tasks.
